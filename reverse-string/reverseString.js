@@ -1,4 +1,4 @@
-function reverseString(string = "abc") {
+function reverseString(string) {
     if (typeof string !== "string") {
         return "passed argument is not string";
     }
